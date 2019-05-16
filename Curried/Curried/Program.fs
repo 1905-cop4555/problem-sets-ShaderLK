@@ -23,3 +23,17 @@ printfn "Curried addition of 10 and 7: %A" ab
 printfn "Curried subtract of 10 and 7: %A" cb
 printfn "Curried multiplication of 10 and 7: %A" jb
 printfn "Curried division of 10 and 7: %A" ub
+
+
+let double = 
+    (*) 2
+let dou =
+    double 2
+printfn "%i" dou
+
+let iterateByOne = 
+    (+) 1
+let it =
+    iterateByOne 2
+printfn "%i" it
+
