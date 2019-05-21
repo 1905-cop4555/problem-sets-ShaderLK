@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Multiply Lists", "Multiply Lists\Multiply Lists.fsproj", "{8461998D-4FBE-4A81-BF4C-8AE1AC13E4C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8461998D-4FBE-4A81-BF4C-8AE1AC13E4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8461998D-4FBE-4A81-BF4C-8AE1AC13E4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8461998D-4FBE-4A81-BF4C-8AE1AC13E4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8461998D-4FBE-4A81-BF4C-8AE1AC13E4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D48C73-F505-4356-9BDB-20524F442EFE}
+	EndGlobalSection
+EndGlobal
